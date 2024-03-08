@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
 import teamsData from './CollegeBasketballTeams.json';
-
+// Abby Harris
+// Section 001
+// app to display the basketball teams for the NCAA march madness tournament
 interface Team {
   school: string;
   name: string;
